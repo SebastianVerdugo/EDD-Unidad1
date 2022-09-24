@@ -14,7 +14,7 @@ public class CajasCamiones
 		{
 			capacidadOriginal=cajas;
 		}
-		if(capacidadCamiones<=cajas)
+		if(cajas<=capacidadCamiones)
 		{
 			return totalCamiones;
 		}
