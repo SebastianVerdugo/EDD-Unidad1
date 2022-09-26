@@ -37,3 +37,27 @@ public class ConvertidorDecimal {
 	}
 
 }
+	/*
+		return convertidor(valor/10, n, contador+1, acumulador);
+		
+		Se cumple condicion valor%10=0
+		
+		convertidor(111, 2, 1, 0)
+		
+		Se cumple condicion contador=1 y valor%10=1
+		
+		convertidor(11, 2, 2, 2)
+		
+		Se cumple condicion  contador>=2 y valor%10=1
+		
+		convertidor(1, 2, 4, 6)
+		
+		Se cumple condicion contador>=2 y valor%10=1
+		
+		convertidor(0, 2, 8, 14)
+		
+		Se cumple condicion valor=0
+		
+		retorna 14
+	*/
+
