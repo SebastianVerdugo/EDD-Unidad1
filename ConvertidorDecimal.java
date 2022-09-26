@@ -5,8 +5,8 @@ public class ConvertidorDecimal {
 	public static void main (String args[])
 	{
 		int  n=2, contador=0, acumulador=0;
-		n=convertidor(1110,  n, contador, acumulador);
-		System.out.println(n);
+		acumulador=convertidor(1110,  n, contador, acumulador);
+		System.out.println(acumulador);
 	}
 	
 	public static int convertidor(int valor,  int n, int contador, int acumulador)
