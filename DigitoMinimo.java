@@ -23,8 +23,19 @@ public class DigitoMinimo {
 		}
 		return compara(valormin, valor=valor/10);
 	}
-//3
-//4
-//2
-//3
 }
+	/*
+		Se cumple la condicion valormin>valor%10
+		
+		compara(4, 315)
+		compara(4, 31)
+		
+		Se cumple la condicion valormin>valor%10
+		
+		compara(1, 3)
+		compara(1, 0)
+		
+		Se cumple la condicion valor=0
+		
+		retorna 1
+	*/
