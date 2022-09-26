@@ -23,3 +23,15 @@ public class CajasCamiones
 	}
 
 }
+      /*
+      	        return contenerCajas(cajas=cajas/2, capacidadCamiones, capacidadOriginal,totalCamiones=(capacidadOriginal/cajas)+totalCamion
+		
+      		return(7, 3, 14, 2)
+		return(3, 3, 14, 6)
+		
+		Se cumple la condicion
+		
+		3<=3
+		
+		retorna 6
+      */
