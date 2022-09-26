@@ -25,6 +25,8 @@ public class DigitoMinimo {
 	}
 }
 	/*
+		return compara(valormin, valor=valor/10);
+		
 		Se cumple la condicion valormin>valor%10
 		
 		compara(4, 315)
