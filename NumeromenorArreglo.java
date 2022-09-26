@@ -28,9 +28,11 @@ public class NumeromenorArreglo
 		return arregloMenor(valor, i+1, menor);
 		
 		Se cumple la condicion valor[i)<menor
+		
 		arregloMenor(arreglo, 1, 8)
 		
 		Se cumple la condicion valor[i)<menor
+		
 		arregloMenor(arreglo, 2, 1)
 		arregloMenor(arreglo, 3, 1)
 		arregloMenor(arreglo, 4, 1)
