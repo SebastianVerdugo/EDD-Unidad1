@@ -27,15 +27,18 @@ public class MCD
 		return maximoComunDivisor(valor1, valor2, n+1, mcd);
 		
 		Se cumple la condicion valor1%n=0 && valor2%n=0
+		
 		MaximoComunDivisor(22, 20, 2, 2)
 		
 		Se cumple la condicion valor1%n=0 && valor2%n=0
+		
 		MaximoComunDivisor(22, 20, 3, 3)
 		MaximoComunDivisor(22, 20, 4, 3)
 		MaximoComunDivisor(22, 20, 5, 3)
 		
 		
 		Se cumple la condicion valor1%n=0 && valor2%n=0
+		
 		MaximoComunDivisor(22, 20, 6, 6)
 		MaximoComunDivisor(22, 20, 7, 6)
 		MaximoComunDivisor(22, 20, 8, 6)
